@@ -1,0 +1,52 @@
+@media screen and (min-width: 1200px){
+	
+}
+@media screen and (max-width: 1199px){
+	
+}
+@media screen and (max-width: 991px){
+	/* ---------- Proyectos Start ---------- */
+	.project .project-img a{
+		margin-bottom: 30px;
+	}
+	/* ---------- Proyectos End ---------- */
+	/* ---------- Testimonio End ---------- */
+	.testimony .swiper-container .swiper-slide{
+		margin: 30px 0;
+	}
+	/* ---------- Testimonio End ---------- */
+	/* ---------- Footer Start ---------- */
+	.footer .services-footer h3, .footer .hour-footer h3{
+		text-align: center;
+	}
+	.footer .services-footer p, .footer .hour-footer p{
+		text-align: center;
+	}
+	/* ---------- Footer End ---------- */
+}
+@media screen and (max-width: 991px) and (min-width: 768px){
+	/* ---------- Header Start ---------- */
+	.header .header-section a figure{
+		display: flex;
+		justify-content: center;
+	}
+	.header .header-section a figure img{
+		max-width: 70%;
+		height: auto;
+	}
+	.header .header-section .phone-header{
+		justify-content: center;
+		display: flex;
+	}
+	.header .header-section .phone-header .phone{
+		width: 70%;
+	}
+	/* ---------- Header End ---------- */
+}
+@media screen and (max-width: 767px){
+}
+@media screen and (max-width: 575px){
+}
+@media screen and (max-width: 470px){
+}
+    
